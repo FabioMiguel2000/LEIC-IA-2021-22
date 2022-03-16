@@ -1,0 +1,3 @@
+[submodule "LinesOfActions"]
+	path = LinesOfActions
+	url = git@github.com:FabioMiguel2000/LinesOfActions.git
