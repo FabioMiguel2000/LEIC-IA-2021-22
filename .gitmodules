@@ -1,3 +1,12 @@
 [submodule "LinesOfActions"]
 	path = LinesOfActions
 	url = git@github.com:FabioMiguel2000/LinesOfActions.git
+[submodule "2nd"]
+	path = 2nd
+	url = https://github.com/FabioMiguel2000/LOA-feat.Reinforcement-Learning.git
+[submodule "2nd_Assignment"]
+	path = 2nd_Assignment
+	url = https://github.com/FabioMiguel2000/LOA-feat.Reinforcement-Learning.git
+[submodule "LOA-feat.Reinforcement-Learning"]
+	path = LOA-feat.Reinforcement-Learning
+	url = https://github.com/FabioMiguel2000/LOA-feat.Reinforcement-Learning.git
